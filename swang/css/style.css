@@ -114,7 +114,7 @@ body {
 }
 
 .placeholder img {
-    display: inline-block;
+    display: block;
     border-radius: 50%;
 }
 
@@ -176,7 +176,7 @@ a:focus {
 
 .sidebar img {
     border: 1px solid #fff;
-    padding: 6px;
+    padding: -6px;
     width: 80%;
 }
 
